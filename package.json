@@ -1,0 +1,10 @@
+{
+  "name": "figmaexport-figma_to_html_community-page_1-frame_1",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
