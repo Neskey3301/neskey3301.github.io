@@ -1,0 +1,11 @@
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    image-rendering: pixelated;
+
+    background-image: url('../assets/the only mf.gif');
+    background-size: 1920px 1080px;
+    z-index: -1;
+}
